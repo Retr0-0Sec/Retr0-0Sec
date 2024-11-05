@@ -23,15 +23,14 @@ echo "Be fearless in pursuit of knowledge." > message.txt
 
 ## 💡 Projects and Knowledge
 
-| 🔧 **Skills**       | 🕵️ **Focus Areas**           | ⚙️ **Tools**              |
+| 🔧 **Skills**       | 🕵️ **Focus Areas**          | ⚙️ **Tools**              |
 |---------------------|------------------------------|---------------------------|
-| Programming        | Ethical Hacking              | Kali Linux, Metasploit    |
-| Cryptography       | Cryptographic Analysis       | Hashcat, John the Ripper  |
-| Web Exploitation   | Vulnerability Assessment     | Burp Suite, Nmap          |
-| Digital Forensics  | Data Recovery, Incident Response | Autopsy, Sleuth Kit   |
+| Programming         | Ethical Hacking              | Kali Linux, Metasploit    |
+| Cryptography        | Cryptographic Analysis       | Hashcat, John the Ripper  |
+| Web Exploitation    | Vulnerability Assessment     | Burp Suite, Nmap          |
+| Digital Forensics   | Data Recovery, Incident Response | Autopsy, Sleuth Kit   |
 
-![Hacker GIF](https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy.gif?cid=ecf05e47inf0737la4jlvcrj7ry4l7ksaexjn92xh1d26sdx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Hacker GIF (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRoaG91bGV0eTh0dm80NHpvb3JlMXBpZGJmd3kxZ3Zkb2MybG1qciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kJ1iL1ZQIyibu/giphy-downsized-large.gif)
 
----
 
 > "Curiosity is my compass, security is my passion."
