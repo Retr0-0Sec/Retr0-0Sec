@@ -19,9 +19,8 @@ Welcome to my world, where **code meets curiosity** and **security becomes an ar
 
 ```bash
 echo "Be fearless in pursuit of knowledge." > message.txt
-
-
-## 💡 Projects and Knowledge
+```
+##💡 Projects and Knowledge
 
 | 🔧 **Skills**       | 🕵️ **Focus Areas**          | ⚙️ **Tools**              |
 |---------------------|------------------------------|---------------------------|
