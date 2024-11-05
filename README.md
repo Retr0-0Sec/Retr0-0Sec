@@ -30,7 +30,7 @@ echo "Be fearless in pursuit of knowledge." > message.txt
 | Web Exploitation    | Vulnerability Assessment     | Burp Suite, Nmap          |
 | Digital Forensics   | Data Recovery, Incident Response | Autopsy, Sleuth Kit   |
 
-<iframe src="https://giphy.com/embed/kJ1iL1ZQIyibu" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kJ1iL1ZQIyibu">via GIPHY</a></p>
+![Hacker GIF](https://i.gifer.com/xK.gif)
 
 
 > "Curiosity is my compass, security is my passion."
