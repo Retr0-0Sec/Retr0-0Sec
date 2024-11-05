@@ -14,13 +14,17 @@ Welcome to my world, where **code meets curiosity** and **security becomes an ar
 
 
 ## 🔎 Connect with Me
+
+
 📫 Discord: retr0_0sec
+
+
 💬 **Reach out** if you want to discuss coding, cybersecurity, or share some insider knowledge. I’m open to tips, collaboration, and ideas for any future projects!
 
 ```bash
 echo "Be fearless in pursuit of knowledge." > message.txt
 ```
-##💡 Projects and Knowledge
+## 💡 Projects and Knowledge
 
 | 🔧 **Skills**       | 🕵️ **Focus Areas**          | ⚙️ **Tools**              |
 |---------------------|------------------------------|---------------------------|
