@@ -37,6 +37,7 @@ echo "Be fearless in pursuit of knowledge." > message.txt
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0-0Sec&layout=compact&theme=radical)
 
 
-> "Curiosity is my compass, security is my passion."
 
 ![Hacker GIF](https://i.gifer.com/xK.gif)
+
+> "Curiosity is my compass, security is my passion."
