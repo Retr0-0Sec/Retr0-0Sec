@@ -32,7 +32,11 @@ echo "Be fearless in pursuit of knowledge." > message.txt
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 
-![Hacker GIF](https://i.gifer.com/xK.gif)
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Retr0-0Sec&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0-0Sec&layout=compact&theme=radical)
 
 
 > "Curiosity is my compass, security is my passion."
+
+![Hacker GIF](https://i.gifer.com/xK.gif)
