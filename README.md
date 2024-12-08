@@ -24,7 +24,7 @@ Welcome to my world, where **code meets curiosity** and **security becomes an ar
 ```bash
 echo "Be fearless in pursuit of knowledge." > message.txt
 ```
-## 🛠️ Languages
+## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
