@@ -32,7 +32,7 @@ echo "Be fearless in pursuit of knowledge." > message.txt
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![RF Hacking](https://img.shields.io/badge/RF_Hacking-2B3A42?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![RF Hacking](https://img.shields.io/badge/RF_Hacking-2B3A42?style=for-the-badge)
 
 ## 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Retr0-0Sec&show_icons=true&theme=radical)
